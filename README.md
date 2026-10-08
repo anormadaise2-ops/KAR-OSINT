@@ -24,3 +24,8 @@ Puis http://127.0.0.1:5000
 - aucune base applicative d'historique
 
 Le projet ne contourne pas les protections de plateformes et ne récupère pas de données privées.
+
+
+## ?? Site officiel
+
+https://anormadaise2-ops.github.io/KAR-OSINT/
